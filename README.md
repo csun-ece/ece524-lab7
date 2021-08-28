@@ -1,5 +1,5 @@
 # CSUN ECE 524L Fall 2021
-## Lab 6 - Averager
+## Lab 7 - Design Space Exploration of FIR Filter 
 
 **Report Created by:**
 - Group n (If applicable)
